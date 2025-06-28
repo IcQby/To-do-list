@@ -1,0 +1,16 @@
+{
+  "name": "IcQby To-Do List",
+  "short_name": "Todo",
+  "start_url": "./todolist.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0078d7",
+  "icons": [
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
